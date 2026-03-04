@@ -1,3 +1,11 @@
+"""
+TermiWatch v1.0
+Author: Shreyas Bhat
+Description: Real-time process interceptor for monitoring and terminating 
+             suspicious CMD/PowerShell instances via WMI event hooks.
+"""
+
+
 import wmi
 import psutil
 import tkinter as tk

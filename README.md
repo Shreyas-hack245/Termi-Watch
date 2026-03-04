@@ -33,6 +33,6 @@ Ensure you have Python installed. You must run your terminal as **Administrator*
       python -m pip install -r requirements.txt
       ```
 3. Run the main script:
-``` bash
-python src/main.py
-```
+      ``` bash
+    python src/main.py
+    ```
